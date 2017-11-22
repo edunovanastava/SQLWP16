@@ -1,7 +1,7 @@
-drop database if exists edunovawp16;
-create database edunovawp16;
+drop database if exists edunovapp16;
+create database edunovapp16;
 
-use edunovawp16;
+use edunovapp16;
 
 create table smjer(
 sifra int not null primary key auto_increment,
